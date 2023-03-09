@@ -1,10 +1,13 @@
-Airbnb dbt project!
-
-Below is the DAG for processing.
+#Airbnb dbt project!
 
 Tech Stack:
 
+<img width="1080" alt="Drawing (1)" src="https://user-images.githubusercontent.com/46944817/223884321-46366fdb-446b-4694-a448-1e34aa4f3d32.png">
 
+
+
+
+Below is the DAG for processing.
 
 ![dbt-dag](https://user-images.githubusercontent.com/46944817/223878666-38417ece-4215-47f0-bf5d-5275bc43b71b.png)
 
