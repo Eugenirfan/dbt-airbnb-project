@@ -1,6 +1,12 @@
-Welcome to your new dbt project!
+Airbnb dbt project!
 
-### Using the starter project
+Below is the DAG for processing.
+
+Tech Stack:
+
+
+
+![dbt-dag](https://user-images.githubusercontent.com/46944817/223878666-38417ece-4215-47f0-bf5d-5275bc43b71b.png)
 
 Try running the following commands:
 - dbt run
