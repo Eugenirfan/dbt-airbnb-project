@@ -31,12 +31,12 @@ Try running the following commands:
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 
-for mac m1 users (homebrew)-
+### Creating a Virtual env for mac m1 users (homebrew)-
 
-List all versions of python installed:
+### List all versions of python installed:
 
 brew list | grep python
 
-create an env using below:
+### create an env using below:
 
 virtualenv --python=/opt/homebrew/bin/python3.9 venv
