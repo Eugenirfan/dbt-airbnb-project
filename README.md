@@ -19,6 +19,15 @@ Source file is Cloud storage, ingested into managed datawarehouse Snowflake(Bigq
 
 ![dbt-dag](https://user-images.githubusercontent.com/46944817/223878666-38417ece-4215-47f0-bf5d-5275bc43b71b.png)
 
+### Creating a Virtual env for mac m1 users (homebrew)-
+
+### List all versions of python installed:
+
+brew list | grep python
+
+### create an env using below:
+
+virtualenv --python=/opt/homebrew/bin/python3.9 venv
 Try running the following commands:
 - dbt run
 - dbt test
@@ -31,12 +40,4 @@ Try running the following commands:
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 
-### Creating a Virtual env for mac m1 users (homebrew)-
 
-### List all versions of python installed:
-
-brew list | grep python
-
-### create an env using below:
-
-virtualenv --python=/opt/homebrew/bin/python3.9 venv
